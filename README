@@ -1,3 +1,10 @@
-kmean 
+Clustering algorithm
+ABC
+kmean
+kmean++ 
 DBscan
-
+EM(GMM: gaussian mixture model)
+auto-encoder
+Markov Model
+HMM 
+State Space Models
